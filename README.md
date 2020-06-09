@@ -4,6 +4,8 @@ This project aims to create a fully-playable virtual poker game, where a user ca
 
 A group project for CSE 237 - Programming Tools And Techniques.
 
+Contibutors: Caleb Lieu. 
+
 # What commands are needed to compile and run the code?
 
 java -cp ./PokerTable.jar gui.PokerTable
